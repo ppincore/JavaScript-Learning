@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+.wrapper{
+    width: 1300px;
+    margin: auto;
+}
+.greeting{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 60px;
+    color: rgb(138, 43, 197);
+    margin: 100px 0;
+    text-align: center;
+    font-weight: 700;
+
+
+}
